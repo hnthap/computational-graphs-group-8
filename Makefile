@@ -2,7 +2,7 @@
 all: clean build run
 
 build:
-	g++ cpp/app.cpp -o app.exe
+	g++ app.cpp -o app.exe
 
 run:
 	./app

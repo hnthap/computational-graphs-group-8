@@ -1,6 +1,9 @@
 #include <iostream>
+#include "graph.h"
+
+using graph::Graph;
 
 int main(int argc, char* argv[]) {
-    std::cout << "Hello, World!" << std::endl;
+    Graph myGraph = Graph();
     return 0;
 }

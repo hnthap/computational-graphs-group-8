@@ -2,6 +2,7 @@
 ================
 
 Đánh giá theo file `huong_dan_giai_bai_tap.md`.
+
 Cảm ơn các bạn nhiều vì đã hoàn thành bài tập rất tốt.
 
 Nhóm 1

@@ -52,6 +52,17 @@ Nhóm 10
 
 Bài 2 câu a $S = 2\times 5 = 10$. Những câu còn lại đều đúng chính xác.
 
+Nhóm 11
+-------
+
+1a. $2ex$.
+
+1b. Nhóm làm đúng câu này.
+
+2abc. Nhóm làm đúng câu này.
+
+3ab. Phần code áp dụng còn thiếu, các bạn xem file lời giải để biết thêm nha.
+
 Nhóm 13
 -------
 
